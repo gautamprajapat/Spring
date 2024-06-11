@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+    <fullyQualifiedTypeName name="pojo_classes.FirstPojo"/>
+    <fullyQualifiedTypeName name="pojo_classes.Teacher"/>
+    <fullyQualifiedTypeName name="pojo_classes.Principal"/>
+    <fullyQualifiedTypeName name="pojo_classes.Database"/>
+    <fullyQualifiedTypeName name="pojo_classes.Security"/>
+    <fullyQualifiedTypeName name="pojo_classes.College"/>
+    <fullyQualifiedTypeName name="pojo_classes.Item"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="pojo_classes.Subject"/>
+    <fullyQualifiedTypeName name="pojo_classes.Amazon"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="pojo_classes.Employee"/>
+    <fullyQualifiedTypeName name="pojo_classes.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="pojo_classes.Person"/>
+    <fullyQualifiedTypeName name="pojo_classes.BackEnd"/>
+    <fullyQualifiedTypeName name="config.Config"/>
+    <fullyQualifiedTypeName name="pojo_classes.Father"/>
+    <fullyQualifiedTypeName name="pojo_classes.Child"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="pojo_classes.FrontEnd"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="pojo_classes.Config"/>
+    <fullyQualifiedTypeName name="pojo_classes.Backend"/>
+</qualifiedTypeNameHistroy>

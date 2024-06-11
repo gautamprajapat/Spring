@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://www.springframework.org/schema/context
+            http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+	<bean id="col1" class="pojo_classes.College">
+	<property name="name" value="IIT"></property>
+	</bean>
+	<bean id="col2" class="pojo_classes.College">
+	<property name="name" value="MIT"></property>
+	</bean>
+	<bean id="col3" class="pojo_classes.College">
+	<property name="name" value="VIT"></property>
+	</bean>
+	
+	<bean id="student" class="pojo_classes.Student">
+	<property name="college">
+	<list>
+	<ref bean="col1"/>
+	<ref bean="col2"/>
+	<ref bean="col3"/>
+	</list>
+	
+	</property>
+	</bean>
+	
+	
+</beans>

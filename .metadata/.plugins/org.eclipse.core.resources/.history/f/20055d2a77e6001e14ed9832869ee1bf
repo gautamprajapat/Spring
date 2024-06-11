@@ -1,0 +1,6 @@
+package pojo_classes;
+
+public class Mobile {
+	public void use();
+
+}

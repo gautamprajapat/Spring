@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\SpringWorkspace\insert_using_value_annotation"/>
+			<item value="E:\SpringWorkspace\di_insert_value_using_constructor"/>
+			<item value="E:\SpringWorkspace\di_insert_userdefined_list_setter"/>
+			<item value="E:\SpringWorkspace\jee_container\src\main\java\run\Run.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="edu.js"/>
+			<item value="edu.jd"/>
+			<item value="EDU.JS"/>
+			<item value="edu.qs"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="di_using_bean_annotaion"/>
+			<item value="di_using_qualifier_annotation"/>
+			<item value="di_using_interface"/>
+			<item value="no_xml_use"/>
+			<item value="di_using_autowired_annotation"/>
+			<item value="insert_using_value_annotation"/>
+			<item value="di_insert_map_using_constructor"/>
+			<item value="di_insert_userdefined_list_constructor"/>
+			<item value="di_insert_list_using_constructor"/>
+			<item value="di_insert_value_using_constructor"/>
+			<item value="di_insert_userdefined_map_setter"/>
+			<item value="di_insert_map_using_setter_userdefined_class"/>
+			<item value="di_insert_userdefined_list_setter"/>
+			<item value="multiple_config_files1"/>
+			<item value="multiple_config_files"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
